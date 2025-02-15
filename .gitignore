@@ -1,0 +1,7 @@
+/node_modules
+.env
+/.vscode
+.npmrc
+.DS_Store
+.tsbuildinfo
+dist
